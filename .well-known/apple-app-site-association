@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["7L363U5YQC.com.tuckmap"],
+        "appIDs": ["7L363U5YQC.com.tuckmap", "7L363U5YQC.com.tuckmap.dev"],
         "components": [
           { "/": "/box/*", "comment": "Open box card by QR link" }
         ]
