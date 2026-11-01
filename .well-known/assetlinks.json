@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tuckmap",
+      "sha256_cert_fingerprints": [
+        "C5:A3:13:49:92:28:3C:27:BB:27:39:AC:FE:90:01:59:D7:10:4B:8B:29:F8:8E:82:8E:66:5E:B9:72:48:05:98"
+      ]
+    }
+  }
+]
